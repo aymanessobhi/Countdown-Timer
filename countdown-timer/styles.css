@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+#timer{
+    font-size : 50px;
+    color: #000;
+    text-align: center;
+    margin: 100px;
+}
+.navbar{
+    background-color: #00539CFF;
+    text-align: center;
+    color: #EEA47FFF;
+    padding: 10px;
+    margin: 0 0 20px 0;
+}
